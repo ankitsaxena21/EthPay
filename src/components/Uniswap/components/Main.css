@@ -1,0 +1,26 @@
+ .content1 {
+    background: linear-gradient(135deg, #70048b 0%, #fda085 100%);
+  }
+.content2 {
+    background: linear-gradient(135deg, #36023d 30%, #da04da 100%);
+    height: 200px;
+    width: 452px;
+    padding-top: 70px;
+    text-decoration: white;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+  }
+.content3 {
+    background: linear-gradient(135deg, rgb(43, 71, 10) 30%, #4edd15 100%);
+    height: 200px;
+    width: 470px;
+    padding-top: 70px;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+  }
+.content4 {
+    background: linear-gradient(135deg, #c3cfe2 0%, #c3cfe2 100%);
+  }
+  

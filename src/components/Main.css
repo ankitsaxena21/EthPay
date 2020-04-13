@@ -1,0 +1,45 @@
+ .ANK {
+    background: linear-gradient(135deg, rgb(4, 19, 85) 0%, #08eeee 100%);
+    height: 150px;
+    padding-top: 60px;
+    text-decoration: white;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+  }
+.ETH {
+    background: linear-gradient(135deg, #f55a12 0%, #f717a1 100%);
+    height: 200px;
+    width: 360px;
+    padding-top: 70px;
+    text-decoration: white;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+  }
+.Address {
+    background: linear-gradient(135deg, rgb(223, 219, 15) 0%, #3df72c 100%);
+    height: 200px;
+    padding-top: 65px;
+    text-decoration: white;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+  }
+.info {
+    background: linear-gradient(135deg, #2e0130 0%, #9f04ad 50%);
+    height: 200px;
+    padding-top: 65px;
+    text-decoration: white;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+  }
+  .covid-19 {
+    background: linear-gradient(135deg, rgb(74, 74, 80) 0%, #2c2923 100%);
+    height: 38px;
+    text-decoration: underline rgb(71, 69, 71);
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+  }
