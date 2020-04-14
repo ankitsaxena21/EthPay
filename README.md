@@ -1,4 +1,4 @@
-# EthPay ([Live Site](https://ethpay.herokuapp.com/))
+# EthPay ([Live Dapp](https://ethpay.herokuapp.com/))
 
 EthPay is a fast and simple peer to peer payment app with an inbuilt reward system for transactions above 10 ANK. It works on compound finance and uniswap protocol deployed on matic testnet.
 Users can easily swap ether to ANK, buy cool products and use chatrooms to connect with other users.
@@ -16,7 +16,7 @@ $ node -v
 v8.9.1
 ```
 
-### Instal Dependencies
+### Install Dependencies
 
 ```
 npm install
